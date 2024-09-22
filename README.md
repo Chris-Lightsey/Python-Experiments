@@ -7,7 +7,7 @@ This repository contains the initial Github related code that I created for DSCI
 Future plans for this repository include adding a sample data file and a [Jupyter](https://jupyter.org/) notebook that will interact with the file.
 
 ## About Me
-I am Chris Lightsey and I work as a Research Engineer at Mississippi State University. I am working on a Master's in Data Science.
+I am Chris Lightsey and I work as a Research Engineer at Mississippi State University. I am working on a **Master's in Data Science**.
 
 My Data Science competencies include:
 - Programming in C, Python, Java, and R
